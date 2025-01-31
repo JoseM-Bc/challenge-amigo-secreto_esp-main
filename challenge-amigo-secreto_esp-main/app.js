@@ -27,9 +27,11 @@ function agregarNombre() {
 function sortearAmigo() {
     if (amigos.length !== 0) {
         let nombreSorteado = Math.floor(Math.random()*amigos.length);
-        let resultado = amigos[nombreSorteado];
+        let resultado = 'El amigo secreto sorteado es: ' + amigos[nombreSorteado];
         let respuesta = document.querySelector('#resultado'); 
-        respuesta.innerHTML = resultado;               
+        respuesta.innerHTML = resultado;
+        amigos = [];
+        document.getElementById("listaAmigos").innerHTML = "";                       
     } else {
         alert('Error, aun no has agregado ningun nombre a la lista');        
     }
