@@ -7,8 +7,7 @@
 </h2>
 
 ## :hammer:Funcionalidades del proyecto
-
-- `Funcionalidad 1`: Ingresar una lista de nombres- `Funcionalidad 2`: Sortear un nombre de la lista de nombres- `Funcionalidad 3`: Mostrar el nombre de la persona elegida 
+- - `Funcionalidad 1`: Ingresar una lista de nombres- `Funcionalidad 2`: Sortear un nombre de la lista de nombre- `Funcionalidad 3`: Mostrar el nombre de la persona elegida
 
 - Proyecto terminado: ![image](https://github.com/user-attachments/assets/a0aae06f-5dfc-4023-a934-ab8cca926ebf)
 
